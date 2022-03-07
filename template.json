@@ -1,7 +1,7 @@
 {
-  "name": "Wails React Template",
-  "shortname": "wails-react-template",
-  "author": "@flin7",
-  "description": "Wails template for React",
-  "helpurl": "https://github.com/flin7/wails-react-template"
+  "name": "Wails React TS Template",
+  "shortname": "wails-react-ts-template",
+  "author": "@slimemoss",
+  "description": "Wails template for React Typescript",
+  "helpurl": "https://github.com/slimemoss/wails-react-ts-template"
 }

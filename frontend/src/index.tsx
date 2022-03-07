@@ -8,7 +8,7 @@ const App = () => {
   const [name, setName] = useState('');
 
   const greet = () => {
-    window.go.main.App.Greet(name).then((result) => {
+    window.go.main.App.Greet(name).then((result: string) => {
       setResult(result);
    });
   };
